@@ -4,5 +4,4 @@ All you need to successfully use OBS Ninja to record video interviews for the c3
 
 » [download v1.5 PDF here](https://github.com/chrismarquardt/c3newsshow-recordingguide/raw/main/c3news_recording_guide_v1.5.pdf)
 
-<<<<<<< HEAD
 [![](thumbnail1.5.png)](https://github.com/chrismarquardt/c3newsshow-recordingguide/raw/main/c3news_recording_guide_v1.5.pdf)
